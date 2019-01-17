@@ -6,6 +6,6 @@ package com.weidian.aha;
  */
 public class TsetAha {
     public static void main(String[] args) {
-        System.out.println("nihao teste123");
+        System.out.println("nihao teste123   ");
     }
 }
